@@ -1,13 +1,17 @@
-#Psychich Game
+# Psychic Game
 
 This is a game that tests several different operators within Javascript
 
-#Link
+# Link
 
+http://everysf.github.io/psychic-game/index.html
 
-
-#Languages Used
+# Languages Used
 
 -HTML
 -CSS
 -Javascript
+
+# Behind the Scenes
+
+Check the console for the answers
