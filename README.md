@@ -8,9 +8,9 @@ http://everysf.github.io/psychic-game/index.html
 
 # Languages Used
 
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 
 # Behind the Scenes
 
